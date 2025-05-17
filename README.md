@@ -3,7 +3,7 @@
 **Bem-vindo(a) ao meu repositório do Tabalho Final da Disciplina de Banco de Dados I!**
 
 - Aqui você encontrará o Tabalho Final da Disciplina de Banco de Dados I feita em 2024/1.
-- Foi utilizado o Banco de Dados Relacional PostgresSQL.
+- Foi utilizado o Banco de Dados Relacional PostgreSQL.
 - O trabalho consistia em elaborar um sistema simples, suas tabelas e fazer consultas.
   
 ## Instalação para utilização
